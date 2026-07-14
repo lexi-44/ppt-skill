@@ -21,6 +21,5 @@
 - `agents/` — 三个阶段的 agent 定义，以及 workflow 交接说明
 - [`references/ppt-skill-knowledge.md`](./references/ppt-skill-knowledge.md) — 写作、视觉、素材相关的知识库
 - `tools/` — 辅助脚本（HTML 转可编辑 PPTX、构建示例 proposal 等）
-- `outputs/xian-proposal/` — 一份完整示例产出（HTML、docx、可编辑 pptx 及预览图）
 
-> 说明：历史项目参考语料（各类客户提案 PDF/PPTX 原件）出于体积和内容考虑未包含在本仓库中，仅上传 skill 本体与示例产出。
+> 说明：历史项目参考语料（各类客户提案 PDF/PPTX 原件）以及生成过的示例产出均涉及商业隐私，未包含在本仓库中，仅上传 skill 本体（agents/tools/references）。
