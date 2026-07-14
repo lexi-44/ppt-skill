@@ -1,0 +1,3 @@
+display_name: PPT SKILL
+short_description: Dongzhu/Artefact idea-to-text, text-to-HTML, and HTML-to-editable-PPT workflow
+default_prompt: "Use PPT SKILL as a three-stage workflow: Idea to Text turns my idea into a proposal, page-by-page HTML plan, image insertion plan, and docx; Text to HTML makes an image-led HTML proposal with Dongzhu/Artefact logo on every page and user-provided images placed by filename; HTML to PPT converts the HTML into an editable PPTX without changing the layout."
